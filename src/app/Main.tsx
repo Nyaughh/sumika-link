@@ -8,8 +8,8 @@ const Main = () => {
                 {/* Added flex-grow and flex properties */}
                 <Image
                     className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-                    src="/overwatch.svg"
-                    alt="Overwatch Logo"
+                    src="/sumika.svg"
+                    alt="sumika Logo"
                     width={300}
                     height={62}
                     priority
